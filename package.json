@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-mohamed-IFKIRNE-main",
+  "version": "1.0.0",
+  "description": "My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://mohamedIFKIRNE.github.io/Portfolio-Mohamed-IFKIRNE/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
